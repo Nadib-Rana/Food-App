@@ -1,0 +1,23 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "Food App",
+  "homepage": "https://github.com/Nadib-Rana/Food-App#readme",
+  "bugs": {
+    "url": "https://github.com/Nadib-Rana/Food-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadib-Rana/Food-App.git"
+  },
+  "license": "ISC",
+  "author": "nadib",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
